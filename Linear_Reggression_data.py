@@ -64,7 +64,7 @@ def simulate_observational_data(n_samples):
     # Step 3: Set true coefficients and intercept
     beta_0 = 1  # Intercept
     beta_1 = 3  # Coefficient for X1
-    beta_2 = 2  # Coefficient for X2
+    beta_2 = -2  # Coefficient for X2
     beta_binary = 4  # Coefficient for T
 
 
